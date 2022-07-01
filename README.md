@@ -15,8 +15,7 @@
  
  😄 know about me: https://faisal.dev.voyage
  
- ⚡ Fun fact: I like to Travel and love to read Poetry.
- 
+
 
 # Tech Stack.
 * Java.
