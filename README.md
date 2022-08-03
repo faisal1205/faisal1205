@@ -1,7 +1,11 @@
-### Hi 👋 I am Faisal Mirza
+
 
 
 <!--**faisal1205/faisal1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+### Hi 👋 
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+I am +Fasial+Mirza!;Java+Backend+Developer...;" style="max-width: 100%;">
 
 
 
