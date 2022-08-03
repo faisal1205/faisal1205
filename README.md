@@ -9,7 +9,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Java Backend Developer who focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a Java Backend Developer .</i>
 </h3>
 
 <h3>
