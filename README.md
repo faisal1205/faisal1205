@@ -26,16 +26,16 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/faisal-baig-mirza-6a48a1155/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/faisal-baig-mirza-6a48a1155/" />
     </a>
     <a href="https://twitter.com/FM051995">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/FM051995" />
     </a>
     <a href="https://">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="" />
     </a>
     <a title="mirzafaisal030@gmail.com" href="mailto:mirzafaisal030@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mirzafaisal030@gmail.com" />
     </a>
 </p>
 <br>
@@ -71,7 +71,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal1205&&theme=tokyonight" alt="faisal1205" /></p>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 <img src="https://activity-graph.herokuapp.com/graph?username=faisal1205&theme=xcode">
 
