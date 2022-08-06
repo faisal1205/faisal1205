@@ -90,7 +90,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=faisal1205&theme=xcode">
 
-
+<!----
  🔭 I’m currently Studying in Masai School.
  
  🌱 I’m currently learning Java.
@@ -104,23 +104,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Tech Stack.
 * Java.
 * SQL.
 
-
+-->
 
