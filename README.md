@@ -25,10 +25,10 @@
 
 <p align="left">
     <a href="https://github.com/faisal1205">
-        <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="faisal1205" />
+        <img src="https://komarev.com/ghpvc/?username=faisal1205&label=Profile%20views&color=0e75b6&style=flat" alt="faisal1205" />
     </a>
     <a href="https://github.com/faisal1205?tab=followers">
-        <img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="followers-count">
+        <img src="https://img.shields.io/github/followers/faisal1205?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
