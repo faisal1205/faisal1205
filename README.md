@@ -22,7 +22,7 @@
 <br>
 
 <!----------------------------------- Profile View Section ------------------------------------>
-
+<!--
 <p align="left">
     <a href="https://github.com/faisal1205">
         <img src="https://komarev.com/ghpvc/?username=faisal1205&label=Profile%20views&color=0e75b6&style=flat" alt="faisal1205" />
@@ -32,7 +32,7 @@
     </a>
 </p>
 <br>
-
+-->
 
 
 
