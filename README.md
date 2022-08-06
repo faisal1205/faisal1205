@@ -70,9 +70,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faisal1205&&theme=tokyonight" alt="faisal1205" /></p>
 
+<h2>Stats</h2>
 
 
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=faisal1205&theme=xcode">
 
 
  🔭 I’m currently Studying in Masai School.
