@@ -46,8 +46,8 @@
     <a href="https://twitter.com/FM051995">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/FM051995" />
     </a>
-    <a href="https://">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="" />
+    <a href="https://faisalmirza-portfolio.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://faisalmirza-portfolio.netlify.app/" />
     </a>
     <a title="mirzafaisal030@gmail.com" href="mailto:mirzafaisal030@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mirzafaisal030@gmail.com" />
